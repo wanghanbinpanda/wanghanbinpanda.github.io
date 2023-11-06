@@ -12,7 +12,16 @@ I am a senior undergraduate student from the Software College of Northeastern Un
 
 
 
-# Preprints and Publications
+# 📝 Preprints
+
+\* indicates equal contribution.
+
+
 
 Hope comes soon. 
 
+
+
+# 📝 Publications
+
+\* indicates equal contribution.
