@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a
-
-
-
-
+I am a senior undergraduate student from the Software College of Northeastern University. I am fortunate to be advised by Associate Professor [Zhenghao Liu](https://edwardzh.github.io/). Currently, I am doing a research internship at [THUNLP](https://nlp.csai.tsinghua.edu.cn/). I will be pursuing a graduate degree at Peking University in the fall of 2024. My research interests include Information Retrieval, Code Intelligence, and LLM Alignment.
 
 
 
 # Preprints and Publications
+
+Hope comes soon. 
+
