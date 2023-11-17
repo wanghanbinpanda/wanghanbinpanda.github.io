@@ -18,7 +18,7 @@ I am a senior undergraduate student from the Software College of Northeastern Un
 
 - **INTERVENOR: Prompt the Coding Ability of Large Language Models with the Interactive Chain of Repairing** [[**Paper**](https://arxiv.org/abs/2311.09868)]
 
-  <u>Hanbin Wang</u>, Zhenghao Liu, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu
+  <u>**Hanbin Wang**</u>, Zhenghao Liu, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu
 
   
 
