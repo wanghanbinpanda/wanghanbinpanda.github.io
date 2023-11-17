@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Hanbin Wang"
 title_separator          : "-"
 name                     : &name "Hanbin Wang"
 description              : &description "personal description"
