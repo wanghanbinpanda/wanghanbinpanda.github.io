@@ -63,13 +63,13 @@
 
   /* paragraph indents */
   p {
-    margin: 0 0 0.7em;
+    margin: 0 0 0.2em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {
         text-indent: $indent-var;
-        margin-top: -0.7em;
+        margin-top: -0.2em;
         //margin-top: 0;
       }
     }
