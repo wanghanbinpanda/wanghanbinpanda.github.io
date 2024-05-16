@@ -12,6 +12,16 @@ I am a senior undergraduate student from the Software College of Northeastern Un
 
 
 
+# 📖 Educations
+
+- *2024.09 - 2027.06*, Software College, Peking University, Beijing, China.
+- *2020.09 - 2024.06*, Software College, Northeastern University, Shenyang, China.
+
+# 💼 Internships
+
+- *2023.10 - now*, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
+- *2023.03 - 2023.06*, The Knowledge Computing Lab, Peking University, Beijing, China.
+
 # 📝 Preprints
 
 \* indicates equal contribution.
@@ -20,10 +30,11 @@ I am a senior undergraduate student from the Software College of Northeastern Un
 
   Lifan Yuan\*, Ganqu Cui\*, **Hanbin Wang**\*, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin, Zhenghao Liu, Bowen Zhou, Hao Peng, Zhiyuan Liu, Maosong Sun.
 
-- **INTERVENOR: Prompt the Coding Ability of Large Language Models with the Interactive Chain of Repairing** [[**Paper**](https://arxiv.org/abs/2311.09868)]
-
-  **Hanbin Wang**, Zhenghao Liu, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu
-
 # 📝 Publications
 
 \* indicates equal contribution.
+
+- **(ACL 2024) INTERVENOR: Prompt the Coding Ability of Large Language Models with the Interactive Chain of Repairing** [[**Paper**](https://arxiv.org/abs/2311.09868)] 
+
+  **Hanbin Wang**, Zhenghao Liu, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu
+
