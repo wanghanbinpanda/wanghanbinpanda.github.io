@@ -20,6 +20,7 @@ I am a senior undergraduate student from the Software College of Northeastern Un
 # 💼 Internships
 
 - *2023.10 - now*, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
+- *2022.08 - now*, NEUIR Lab , Shenyang, China.
 - *2023.03 - 2023.06*, The Knowledge Computing Lab, Peking University, Beijing, China.
 
 # 📝 Preprints
