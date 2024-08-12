@@ -19,16 +19,18 @@ I am a senior undergraduate student from the Software College of Northeastern Un
 
 # 💼 Internships
 
-- *2024.7 - now*, Shanghai AI Laboratory, Beijing, China.
+- *2024.07 - now*, Shanghai AI Laboratory, Beijing, China.
 - *2023.10 - now*, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
-- *2022.08 - now*, NEUIR Lab , Shenyang, China.
+- *2022.08 - 2024.07, NEUIR Lab , Shenyang, China.
 - *2023.03 - 2023.06*, The Knowledge Computing Lab, Peking University, Beijing, China.
 
 # 📝 Preprints
 
 \* indicates equal contribution.
 
+- **Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement** [[**Paper**](https://www.arxiv.org/abs/2408.05006)] 
 
+  Weiqing Yang\*, **Hanbin Wang\***, Zhenghao Liu, Xinze Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Zhiyuan Liu, Ge Yu
 
 # 📝 Publications
 
