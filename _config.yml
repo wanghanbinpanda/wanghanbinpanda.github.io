@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Hanbin Wang"
-  avatar           : "wanghanbin.png"
+  avatar           : "wanghanbin2.png"
   bio              : "wanghanbin95@163.com"
   location         : "Shenyang, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=FMHqC7gAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

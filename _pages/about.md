@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student from the Software College of Northeastern University. I am fortunate to be advised by Associate Professor [Zhenghao Liu](https://edwardzh.github.io/). Currently, I am doing a research internship at [THUNLP](https://nlp.csai.tsinghua.edu.cn/). I will be pursuing a graduate degree at Peking University in the fall of 2024. My research interests include Information Retrieval, Code Intelligence, and LLM Alignment.
-
-
+I am currently a first-year Master’s student at National Engineering Research Center for Software Engineering, Peking University. Previously, I had the fortune to collaborate with researchers from [NEUIR](https://neuir.github.io/), [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [ModelBest(面壁智能)](https://modelbest.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/). My research interests include Code Intelligence and LLM Reasoning.
 
 # 📖 Educations
 
-- *2024.09 - 2027.06*, Software College, Peking University, Beijing, China.
+- *2024.09 - 2027.06*, National Engineering Research Center for Software Engineering, Peking University, Beijing, China.
 - *2020.09 - 2024.06*, Software College, Northeastern University, Shenyang, China.
 
 # 💼 Internships
 
-- *2024.07 - now*, Shanghai AI Laboratory, Beijing, China.
-- *2023.10 - now*, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
+- *2024.07 - 2024.09*, Shanghai AI Laboratory, Beijing, China.
+- *2023.10 - 2024.07, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
 - *2022.08 - 2024.07*, NEUIR Lab , Shenyang, China.
 - *2023.03 - 2023.06*, The Knowledge Computing Lab, Peking University, Beijing, China.
 
@@ -35,6 +33,10 @@ I am a senior undergraduate student from the Software College of Northeastern Un
 # 📝 Publications
 
 \* indicates equal contribution.
+
+- **(TOIS) Building A Coding Assistant via the Retrieval-Augmented Language Model**
+
+​	Xinze Li\*, **Hanbin Wang**\*, Zhenghao Liu, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu
 
 - **(ICML 2024 Workshop on AI4Math) Advancing LLM Reasoning Generalists with Preference Trees** [[**Paper**](https://arxiv.org/abs/2404.02078)]
 
