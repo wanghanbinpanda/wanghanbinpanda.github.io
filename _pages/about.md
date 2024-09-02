@@ -18,7 +18,7 @@ I am currently a first-year Master’s student at National Engineering Research 
 # 💼 Internships
 
 - *2024.07 - 2024.09*, Shanghai AI Laboratory, Beijing, China.
-- *2023.10 - 2024.07, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
+- *2023.10 - 2024.07*, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
 - *2022.08 - 2024.07*, NEUIR Lab , Shenyang, China.
 - *2023.03 - 2023.06*, The Knowledge Computing Lab, Peking University, Beijing, China.
 
@@ -36,7 +36,7 @@ I am currently a first-year Master’s student at National Engineering Research 
 
 - **(TOIS) Building A Coding Assistant via the Retrieval-Augmented Language Model**
 
-​	Xinze Li\*, **Hanbin Wang**\*, Zhenghao Liu, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu
+  Xinze Li\*, **Hanbin Wang**\*, Zhenghao Liu, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu
 
 - **(ICML 2024 Workshop on AI4Math) Advancing LLM Reasoning Generalists with Preference Trees** [[**Paper**](https://arxiv.org/abs/2404.02078)]
 
