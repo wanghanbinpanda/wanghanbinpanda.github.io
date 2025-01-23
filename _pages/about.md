@@ -31,13 +31,6 @@ I am looking for PhD opportunities, feel free to contact me!🔥
 \* indicates equal contribution.
 
 - **Process Reinforcement through Implicit Rewards** [[**Blog**](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)]
-<<<<<<< HEAD
-=======
-
-  Ganqu Cu\*, Lifan Yuan\*, Zefan Wang, **Hanbin Wang**, Wendi Li, Bingxiang He, Yuchen Fan, Tianyu Yu, Qixin Xu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding\*.
-
-- **Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement** [[**Paper**](https://www.arxiv.org/abs/2408.05006)] 
->>>>>>> 60a844fa025eea75c56b1893ca4b8af30ad59610
 
   Ganqu Cu\*, Lifan Yuan\*, Zefan Wang, **Hanbin Wang**, Wendi Li, Bingxiang He, Yuchen Fan, Tianyu Yu, Qixin Xu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding\*.
 
