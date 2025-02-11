@@ -30,9 +30,9 @@ I am looking for PhD opportunities, feel free to contact me!🔥
 
 \* indicates equal contribution.
 
-- **Process Reinforcement through Implicit Rewards** [[**Blog**](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)]
+- **Process Reinforcement through Implicit Rewards** [[**Paper**](https://arxiv.org/abs/2502.01456)][[**Blog**](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)]
 
-  Ganqu Cu\*, Lifan Yuan\*, Zefan Wang, **Hanbin Wang**, Wendi Li, Bingxiang He, Yuchen Fan, Tianyu Yu, Qixin Xu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding\*.
+  Ganqu Cui\*, Lifan Yuan\*, Zefan Wang, **Hanbin Wang**, Wendi Li, Bingxiang He, Yuchen Fan, Tianyu Yu, Qixin Xu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding\*.
 
 # 📝 Publications
 
