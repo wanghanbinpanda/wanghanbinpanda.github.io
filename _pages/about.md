@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Master’s student at National Engineering Research Center for Software Engineering, Peking University. Previously, I had the fortune to collaborate with researchers from [NEUIR](https://neuir.github.io/), [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [ModelBest(面壁智能)](https://modelbest.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/). My research interests include Code Intelligence and LLM Reasoning.
+I am currently a second-year Master’s student at National Engineering Research Center for Software Engineering, Peking University. Previously, I had the fortune to collaborate with researchers from [NEUIR](https://neuir.github.io/), [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [ModelBest(面壁智能)](https://modelbest.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/). My research interests include Code Intelligence, LLM Reasoning, and LLM Agent.
 
 I am looking for PhD opportunities, feel free to contact me!🔥
 
@@ -21,6 +21,7 @@ I am looking for PhD opportunities, feel free to contact me!🔥
 
 # 💼 Internships
 
+- *2025.07 - now*, ByteDance Seed, Beijing, China.
 - *2024.07 - 2024.09*, Shanghai AI Laboratory, Beijing, China.
 - *2023.10 - 2024.07*, TsinghuaNLP & ModelBest Inc (面壁智能) , Beijing, China.
 - *2022.08 - 2024.07*, NEUIR Lab , Shenyang, China.
@@ -30,6 +31,22 @@ I am looking for PhD opportunities, feel free to contact me!🔥
 
 \* indicates equal contribution.
 
+- **Group Pattern Selection Optimization: Let LRMs Pick the Right Pattern for Reasoning** [[**Paper**]()]
+
+  **Hanbin Wang**, Jingwei Song, Jinpeng Li3, Fei Mi, Lifeng Shang.
+
+- **Ui-tars-2 technical report: Advancing gui agent with multi-turn reinforcement learning** [[**Paper**](https://arxiv.org/abs/2509.02544)]
+
+  ByteDance Seed UI-TARS Team.
+
+- **From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones** [[**Paper**](https://arxiv.org/abs/2509.25123)]
+
+  Lifan Yuan, Weize Chen, Yuchen Zhang, Ganqu Cui, **Hanbin Wang**, Ziming You, Ning Ding, Zhiyuan Liu, Maosong Sun, Hao Peng.
+
+- **Code-vision: Evaluating multimodal llms logic understanding and code generation capabilities** [[**Paper**](https://arxiv.org/abs/2502.11829)]
+
+  **Hanbin Wang**, Xiaoxuan Zhou, Zhipeng Xu, Keyuan Cheng, Yuxin Zuo, Kai Tian, Jingwei Song, Junting Lu, Wenhui Hu, Xueyang Liu.
+
 - **Process Reinforcement through Implicit Rewards** [[**Paper**](https://arxiv.org/abs/2502.01456)][[**Blog**](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)]
 
   Ganqu Cui\*, Lifan Yuan\*, Zefan Wang, **Hanbin Wang**, Wendi Li, Bingxiang He, Yuchen Fan, Tianyu Yu, Qixin Xu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding\*.
@@ -37,6 +54,14 @@ I am looking for PhD opportunities, feel free to contact me!🔥
 # 📝 Publications
 
 \* indicates equal contribution.
+
+- **(ACL 2025) CODEMENV: Benchmarking Large Language Models on Code Migration** [[**Paper**](https://arxiv.org/abs/2506.00894)]
+
+  Keyuan Cheng, Xudong Shen, Yihao Yang, Tengyue Wang, Yang Cao, Muhammad Asif Ali, **Hanbin Wang**, Lijie Hu, Di Wang.
+
+- **(ACL 2025) KnowCoder-X: Boosting Multilingual Information Extraction via Code** [[**Paper**](https://arxiv.org/abs/2411.04794)]
+
+  Yuxin Zuo, Wenxuan Jiang, Wenxuan Liu, Zixuan Li, Long Bai, **Hanbin Wang**, Yutao Zeng, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng.
 
 - **(ICLR 2025) Advancing LLM Reasoning Generalists with Preference Trees** [[**Paper**](https://arxiv.org/abs/2404.02078)]
 
