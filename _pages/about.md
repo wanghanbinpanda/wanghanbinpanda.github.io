@@ -45,7 +45,7 @@ I am looking for PhD opportunities, feel free to contact me!🔥
 
 - **Code-vision: Evaluating multimodal llms logic understanding and code generation capabilities** [[**Paper**](https://arxiv.org/abs/2502.11829)]
 
-  **Hanbin Wang**, Xiaoxuan Zhou, Zhipeng Xu, Keyuan Cheng, Yuxin Zuo, Kai Tian, Jingwei Song, Junting Lu, Wenhui Hu, Xueyang Liu.
+  **Hanbin Wang\***, Xiaoxuan Zhou\*, Zhipeng Xu, Keyuan Cheng, Yuxin Zuo, Kai Tian, Jingwei Song, Junting Lu, Wenhui Hu, Xueyang Liu.
 
 - **Process Reinforcement through Implicit Rewards** [[**Paper**](https://arxiv.org/abs/2502.01456)][[**Blog**](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)]
 
