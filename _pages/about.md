@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Master’s student at National Engineering Research Center for Software Engineering, Peking University. Previously, I had the fortune to collaborate with researchers from [NEUIR](https://neuir.github.io/), [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [ModelBest(面壁智能)](https://modelbest.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/). My research interests include Code Intelligence, LLM Reasoning, and LLM Agent.
+I am currently a second-year Master’s student at National Engineering Research Center for Software Engineering, Peking University. Previously, I had the fortune to collaborate with researchers from[THUNLP](https://nlp.csai.tsinghua.edu.cn/), [Shanghai AI Lab](https://www.shlab.org.cn/), and [ByteDance Seed UI-TARS Team](https://seed.bytedance.com/en/). My research interests include LLM Agent (Joint use of search, code, and GUI tools), Code Intelligence, and LLM Reasoning.
 
-I am looking for PhD opportunities, feel free to contact me!🔥
-
-
+<p style="color: red;">I expect to graduate in 2027 and am currently on the job market! If you are interested in me, please feel free to contact me.🔥</p>
 
 # 📖 Educations
 
@@ -31,13 +29,17 @@ I am looking for PhD opportunities, feel free to contact me!🔥
 
 \* indicates equal contribution.
 
-- **Group Pattern Selection Optimization: Let LRMs Pick the Right Pattern for Reasoning** [[**Paper**]()]
+- **Seed1.8 Model Card: Towards Generalized Real-World Agency**[[**Paper**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)]
 
-  **Hanbin Wang**, Jingwei Song, Jinpeng Li3, Fei Mi, Lifeng Shang.
+  ByteDance Seed.
 
 - **Ui-tars-2 technical report: Advancing gui agent with multi-turn reinforcement learning** [[**Paper**](https://arxiv.org/abs/2509.02544)]
 
   ByteDance Seed UI-TARS Team.
+
+- **Group Pattern Selection Optimization: Let LRMs Pick the Right Pattern for Reasoning** [[**Paper**]()]
+
+  **Hanbin Wang**, Jingwei Song, Jinpeng Li3, Fei Mi, Lifeng Shang.
 
 - **From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones** [[**Paper**](https://arxiv.org/abs/2509.25123)]
 
