@@ -29,7 +29,7 @@ I am currently a second-year Master’s student at National Engineering Research
 
 \* indicates equal contribution.
 
-- **Seed1.8 Model Card: Towards Generalized Real-World Agency**[[**Paper**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)]
+- **(Core Contributor) Seed1.8 Model Card: Towards Generalized Real-World Agency**[[**Paper**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)]
 
   ByteDance Seed.
 
@@ -39,7 +39,7 @@ I am currently a second-year Master’s student at National Engineering Research
 
 - **Group Pattern Selection Optimization: Let LRMs Pick the Right Pattern for Reasoning** [[**Paper**]()]
 
-  **Hanbin Wang**, Jingwei Song, Jinpeng Li3, Fei Mi, Lifeng Shang.
+  **Hanbin Wang**, Jingwei Song, Jinpeng Li, Fei Mi, Lifeng Shang.
 
 - **From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones** [[**Paper**](https://arxiv.org/abs/2509.25123)]
 
