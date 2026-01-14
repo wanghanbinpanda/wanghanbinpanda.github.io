@@ -37,9 +37,13 @@ I am currently a second-year Master’s student at National Engineering Research
 
   ByteDance Seed UI-TARS Team.
 
-- **Group Pattern Selection Optimization: Let LRMs Pick the Right Pattern for Reasoning** [[**Paper**]()]
+- **Group Pattern Selection Optimization: Let LRMs Pick the Right Pattern for Reasoning** [[**Paper**](http://arxiv.org/abs/2601.07238)]
 
-  **Hanbin Wang**, Jingwei Song, Jinpeng Li, Fei Mi, Lifeng Shang.
+  **Hanbin Wang\***, Jingwei Song\*, Jinpeng Li, Fei Mi, Lifeng Shang.
+
+- **Teaching Large Reasoning Models Effective Reflection** [[**Paper**]()]
+
+  **Hanbin Wang\***, Jingwei Song\*, Jinpeng Li, Qi Zhu, Fei Mi, Ganqu Cui, Yasheng Wang, Lifeng Shang.
 
 - **From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones** [[**Paper**](https://arxiv.org/abs/2509.25123)]
 
