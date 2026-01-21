@@ -41,7 +41,7 @@ I am currently a second-year Master’s student at National Engineering Research
 
   **Hanbin Wang\***, Jingwei Song\*, Jinpeng Li, Fei Mi, Lifeng Shang.
 
-- **Teaching Large Reasoning Models Effective Reflection** [[**Paper**]()]
+- **Teaching Large Reasoning Models Effective Reflection** [[**Paper**](https://arxiv.org/pdf/2601.12720)]
 
   **Hanbin Wang\***, Jingwei Song\*, Jinpeng Li, Qi Zhu, Fei Mi, Ganqu Cui, Yasheng Wang, Lifeng Shang.
 
