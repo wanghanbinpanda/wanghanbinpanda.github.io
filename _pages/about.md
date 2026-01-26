@@ -45,10 +45,6 @@ I am currently a second-year Master’s student at National Engineering Research
 
   **Hanbin Wang\***, Jingwei Song\*, Jinpeng Li, Qi Zhu, Fei Mi, Ganqu Cui, Yasheng Wang, Lifeng Shang.
 
-- **From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones** [[**Paper**](https://arxiv.org/abs/2509.25123)]
-
-  Lifan Yuan, Weize Chen, Yuchen Zhang, Ganqu Cui, **Hanbin Wang**, Ziming You, Ning Ding, Zhiyuan Liu, Maosong Sun, Hao Peng.
-
 - **Code-vision: Evaluating multimodal llms logic understanding and code generation capabilities** [[**Paper**](https://arxiv.org/abs/2502.11829)]
 
   **Hanbin Wang\***, Xiaoxuan Zhou\*, Zhipeng Xu, Keyuan Cheng, Yuxin Zuo, Kai Tian, Jingwei Song, Junting Lu, Wenhui Hu, Xueyang Liu.
@@ -57,9 +53,17 @@ I am currently a second-year Master’s student at National Engineering Research
 
   Ganqu Cui\*, Lifan Yuan\*, Zefan Wang, **Hanbin Wang**, Wendi Li, Bingxiang He, Yuchen Fan, Tianyu Yu, Qixin Xu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding\*.
 
+- **MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech, and Multimodal Live Streaming on Your Phone** [[**Paper**](https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9)]
+
+  Yuan Yao, Tianyu Yu, Chongyi Wang, Junbo Cui, Bokai Xu, Hongji Zhu, Tianchi Cai, Fuwei Huang, Tianran Wang, Wenshuo Ma, Yixuan Zhou, Haoye Zhang, Zonghao Guo, Chi Chen, Haoyu Wang, Zhihui He, Haoyu Li, Hanyu Liu, Luoyuan Zhang, Ge Zhou, Siyuan Li, Zhi Zheng, Jie Zhou, Yuxuan Li, Kaihuo Zhang, Yudong Mei, Hanqing Zhao, Yueying Chen, Zhongwu Zhai, **Hanbin Wang**, Ganqu Cui, Ning Ding, Xu Han, Zhiyong Wu, Zhiyuan Liu, Maosong Sun.
+
 # 📝 Publications
 
 \* indicates equal contribution.
+
+- **(ICLR 2026) From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones** [[**Paper**](https://arxiv.org/abs/2509.25123)]
+
+  Lifan Yuan, Weize Chen, Yuchen Zhang, Ganqu Cui, **Hanbin Wang**, Ziming You, Ning Ding, Zhiyuan Liu, Maosong Sun, Hao Peng.
 
 - **(ACL 2025) CODEMENV: Benchmarking Large Language Models on Code Migration** [[**Paper**](https://arxiv.org/abs/2506.00894)]
 
